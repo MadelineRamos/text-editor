@@ -60,7 +60,6 @@ h1 {
   0% {
     transform: rotate(0deg);
   }
-
   100% {
     transform: rotate(360deg);
   }
@@ -196,15 +195,12 @@ h1 {
   .nav-btn {
     display: none;
   }
-
   .navbar-brand {
     display: none;
   }
-
   #navbar {
     justify-content: center;
   }
-
   h1 {
     font-size: 18px;
   }
