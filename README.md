@@ -21,4 +21,4 @@ https://madeline-text-editor.herokuapp.com/
 
 ## Snapshot:
 
-![social-network-example](https://user-images.githubusercontent.com/108437661/206061806-ebe83e8f-8f81-4b6a-b624-f17ed4bf2952.png)
+![JATE](https://user-images.githubusercontent.com/108437661/206061870-0e414b2a-be76-413e-b8e3-549f60b5ba6d.png)
