@@ -17,7 +17,8 @@ This text editor was built with an existing application and implements methods f
 
 ## Deployed Link:
 
-
+https://madeline-text-editor.herokuapp.com/
 
 ## Snapshot:
 
+![social-network-example](https://user-images.githubusercontent.com/108437661/206061806-ebe83e8f-8f81-4b6a-b624-f17ed4bf2952.png)
